@@ -1,3 +1,5 @@
+<?php
+
 //==========================================================================
 // STEP I: INTERNAL CONFIGURABLES  
 //==========================================================================
@@ -117,3 +119,5 @@ public function step3_process()
 	// TIP: you can add as many steps as you need
 	// TIP: you can remove these comments if you don't need them.
 	   }
+
+?>
